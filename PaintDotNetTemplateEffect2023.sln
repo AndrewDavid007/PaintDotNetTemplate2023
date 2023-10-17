@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintDotNetTemplateEffect2023", "PaintDotNetTemplateEffect2023.csproj", "{44C1B995-0965-4A38-880B-85D7010D60D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C1B995-0965-4A38-880B-85D7010D60D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C1B995-0965-4A38-880B-85D7010D60D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C1B995-0965-4A38-880B-85D7010D60D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C1B995-0965-4A38-880B-85D7010D60D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6B788A-3664-49EE-ABA1-D352B6DACA49}
+	EndGlobalSection
+EndGlobal
