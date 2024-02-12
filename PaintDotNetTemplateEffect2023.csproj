@@ -58,7 +58,7 @@
     </Reference>
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy &quot;$(TargetPath)&quot; &quot;C:\Users\Andrew\Documents\paint.net App Files\Effects\Testing&quot;" />
-  </Target>
+<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy &quot;$(TargetPath)&quot; &quot;$(ProjectDir)bin\$(Configuration)\$(TargetFileName)&quot;" />
+</Target>
 </Project>
